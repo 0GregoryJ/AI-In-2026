@@ -1,14 +1,17 @@
-# AI-In-2026
-This project draws realistic conclusions about AI's impact on enterprise businesses, in the areas of sales, productivity, and the anatomy of businesses.
+# AI In 2026: Have AI-adopting companies really seen gains in productivity relative to peers? And if so, how valuable are these gains?
+## Summary
+This project draws realistic conclusions about AI's impact on productivity across industries. I will look at data from early adopters in technology, finance, retail, and manufacturing. Specifically, I'll compare adoption timing with productivity metrics like AAR per employee, labor costs, asset turnover, feature velocity, inventory turnover, and more, in python, and visualize results in tableau.
 
-To answer the following questions:
-1. Does AI generated sales outreach actually reduce relplies, and if so, at what point in the conversation?
-2. How valueable exactlty are AI productivity gains, where are they the most valuable, and where can we expect to be growth?
-3. In which roles, teams, and processes, is AI most impactful?
-   
-I looked at data from:
-1. Enroll email datasets, customer support / ticket conversion datasets.
-2. Anthropic / OpenAI Published Task-Level Productivity Estimates, O*NET Task & Skills Databases, the BLS American Time Use Survey (ATUS).
-3. Bugzilla Public Bug Databases, CRM & Sales Funnel Datasets.
+I expect to find:
+- Operating margin expansions following AI adoption, but before productivity gains.
+- Uneven and industry-specific revenue per employee gains.
+- Slows, but not reverses, in headcount growth post adoption.
+- Productivity gains highest in software and IT firms.
 
-Specific sources can be found in "references."
+## Data Sources
+
+## Methodology
+
+## Limitations
+
+## Implications
